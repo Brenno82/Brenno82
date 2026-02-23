@@ -1,16 +1,37 @@
-## Hi there 👋
+# Brenno Vitor
 
-<!--
-**Brenno82/Brenno82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack  
+🚀 PHP | MySQL | React Native | HTML | CSS  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor focado em desenvolvimento web e mobile.  
+Gosto de transformar ideias em sistemas funcionais e organizados.
+
+- 🔍 Sempre pesquisando antes de pedir ajuda
+- 🤝 Gosto de ajudar colegas com código
+- 📈 Buscando evoluir para nível Pleno
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**  
+HTML | CSS | JavaScript | React Native  
+
+**Backend:**  
+PHP | MySQL  
+
+**Ferramentas:**  
+Git | GitHub | MAMP
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](SEU_LINK)
+
