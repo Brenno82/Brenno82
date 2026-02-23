@@ -31,7 +31,7 @@ Git | GitHub | MAMP
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenno-vitor-o-60aa503b2/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](SEU_LINK)
 
