@@ -1,7 +1,7 @@
 # Brenno Vitor
 
 💻 Desenvolvedor Full Stack  
-🚀 PHP | MySQL | React Native | HTML | CSS  
+🚀 PHP | MySQL | JavaScript  | HTML | CSS  
 
 ---
 
@@ -10,16 +10,10 @@
 Sou desenvolvedor focado em desenvolvimento web e mobile.  
 Gosto de transformar ideias em sistemas funcionais e organizados.
 
-- 🔍 Sempre pesquisando antes de pedir ajuda
-- 🤝 Gosto de ajudar colegas com código
-- 📈 Buscando evoluir para nível Pleno
-
----
-
 ## 🛠 Tech Stack
 
 **Frontend:**  
-HTML | CSS | JavaScript | React Native  
+HTML | CSS | JavaScript  
 
 **Backend:**  
 PHP | MySQL  
