@@ -7,8 +7,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor focado em desenvolvimento web e mobile.  
-Gosto de transformar ideias em sistemas funcionais e organizados.
+Sou um desenvolvedor com foco em estudo em Python, Cybersecurity, SQL, C#, DataScience e API.
 
 ## 🛠 Tech Stack
 
@@ -25,7 +24,7 @@ Git | GitHub | MAMP
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenno-vitor-o-60aa503b2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/brenno-vitor-o-60aa503b2/](https://www.linkedin.com/in/brennovitor-dev/))
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](SEU_LINK)
 
